@@ -1,1 +1,1 @@
-Solving coding problems in C++ and Python
+Problem solving in C++ and Python
